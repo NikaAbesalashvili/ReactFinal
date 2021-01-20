@@ -1,0 +1,23 @@
+.slider {
+    width: 85%;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+.slider-image {
+    width: 100%;
+    border-radius: 30px;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.slider-button {
+    border: none;
+    background-color: transparent;
+    outline: none;
+
+}

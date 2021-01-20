@@ -1,0 +1,18 @@
+.header {
+    padding-top: 10px;
+    background-color: #8c8c8c;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+.header-link {
+    font-size: 20px;
+    margin-left: 25px;
+    text-decoration: none;
+    color: #FFF;
+}

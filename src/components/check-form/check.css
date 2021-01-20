@@ -1,0 +1,28 @@
+.check {
+    width: 85%;
+    height: 166px;
+    margin: auto;
+    margin: 70px 0 25px 8%;
+}
+
+.check-input {
+    width: 260px;
+    height: 60px;
+    margin: 53px 16px 53px 0;
+    font-size: 18px;
+    text-align: center;
+}
+
+.check-input:focus {
+    outline: none;
+}
+
+.submit-info {
+    border: none;
+    width: 260px;
+    height: 60px;
+    background-color: #5863F8;
+    color: #FFFFFF;
+    outline: none;
+    font-size: 25px;
+}
